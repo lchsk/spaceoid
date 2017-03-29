@@ -1,0 +1,13 @@
+{ 
+"level" : { "human" : "red", "booster_freq" : 75, "booster_active_time_factor" : 1.5, "planet_growth_min" : 1.0, "planet_growth_max" : 1.5 },
+	"planets" :
+[ 
+	{ "color" : "red", "power" : 20, "x" : 0.2, "y" : 0.2 },
+	{ "color" : "green", "power" : 30, "x" : 0.75, "y" : 0.83 },
+	{ "color" : "yellow", "power" : 80, "x" : 0.5, "y" : 0.5 },
+	{ "color" : "green", "power" : 20, "x" : 0.7, "y" : 0.15 },
+	{ "color" : "green", "power" : 20, "x" : 0.8, "y" : 0.4 },
+	{ "color" : "red", "power" : 20, "x" : 0.12, "y" : 0.7 }
+],
+"ai" : { "speed": 50, "bullet_size": 30, "order": "smart", "against_human" : false }
+}

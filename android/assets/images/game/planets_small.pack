@@ -1,0 +1,153 @@
+
+planets_small.png
+size: 1008,1008
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+planet2_2
+  rotate: false
+  xy: 2, 708
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 300
+planet2_2
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 100
+planet2_2
+  rotate: false
+  xy: 206, 72
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 30
+planet3_2
+  rotate: false
+  xy: 2, 406
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 300
+planet3_2
+  rotate: false
+  xy: 606, 606
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 100
+planet3_2
+  rotate: false
+  xy: 606, 472
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 30
+planet4_2
+  rotate: false
+  xy: 304, 708
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 300
+planet4_2
+  rotate: false
+  xy: 908, 908
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 100
+planet4_2
+  rotate: false
+  xy: 708, 574
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 30
+planet5_2
+  rotate: false
+  xy: 2, 104
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 300
+planet5_2
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 100
+planet5_2
+  rotate: false
+  xy: 810, 676
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 30
+planet6_2
+  rotate: false
+  xy: 304, 406
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 300
+planet6_2
+  rotate: false
+  xy: 606, 504
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 100
+planet6_2
+  rotate: false
+  xy: 908, 774
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 30
+planet7_2
+  rotate: false
+  xy: 606, 708
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 300
+planet7_2
+  rotate: false
+  xy: 708, 606
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 100
+planet7_2
+  rotate: false
+  xy: 206, 40
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 30
+planet8_2
+  rotate: false
+  xy: 304, 104
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: 300
+planet8_2
+  rotate: false
+  xy: 908, 806
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: 100
+planet8_2
+  rotate: false
+  xy: 238, 72
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: 30

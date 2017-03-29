@@ -1,0 +1,230 @@
+
+gui.png
+size: 1002,504
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+icon_fb2
+  rotate: false
+  xy: 629, 354
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_music2_active
+  rotate: false
+  xy: 254, 102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_music2_inactive
+  rotate: false
+  xy: 781, 354
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+icon_www2
+  rotate: false
+  xy: 406, 102
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+level
+  rotate: false
+  xy: 629, 224
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 128
+level_b
+  rotate: false
+  xy: 759, 224
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 128
+lines_blue
+  rotate: false
+  xy: 889, 320
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+lines_brown
+  rotate: false
+  xy: 688, 190
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+lines_green
+  rotate: false
+  xy: 933, 410
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+lines_pink
+  rotate: false
+  xy: 995, 472
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+lines_purple
+  rotate: false
+  xy: 254, 6
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+lines_red
+  rotate: false
+  xy: 316, 68
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+lines_yellow
+  rotate: false
+  xy: 889, 286
+  size: 4, 32
+  orig: 4, 32
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 254
+  size: 625, 250
+  orig: 625, 250
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 558, 94
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+piglet_logic_1
+  rotate: false
+  xy: 2, 2
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: 250
+shot_power_blue
+  rotate: false
+  xy: 558, 244
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+shot_power_brown
+  rotate: false
+  xy: 995, 462
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+shot_power_green
+  rotate: false
+  xy: 316, 58
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+shot_power_pink
+  rotate: false
+  xy: 322, 92
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+shot_power_purple
+  rotate: false
+  xy: 889, 276
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+shot_power_red
+  rotate: false
+  xy: 898, 344
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+shot_power_yellow
+  rotate: false
+  xy: 691, 180
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+star_black
+  rotate: false
+  xy: 933, 444
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 60
+star_white
+  rotate: false
+  xy: 254, 40
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: 60
+stats_blue
+  rotate: false
+  xy: 895, 320
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
+stats_brown
+  rotate: false
+  xy: 688, 156
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
+stats_green
+  rotate: false
+  xy: 694, 190
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
+stats_pink
+  rotate: false
+  xy: 933, 376
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
+stats_purple
+  rotate: false
+  xy: 939, 410
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
+stats_red
+  rotate: false
+  xy: 1001, 472
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
+stats_yellow
+  rotate: false
+  xy: 260, 6
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
